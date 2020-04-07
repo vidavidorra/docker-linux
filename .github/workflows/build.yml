@@ -22,7 +22,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v2.0.0
+        uses: actions/checkout@v2.1.0
       - name: Docker build and push
         uses: docker/build-push-action@v1.0.1
         with:
