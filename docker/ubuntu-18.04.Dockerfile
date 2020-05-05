@@ -1,4 +1,4 @@
-FROM ubuntu:bionic-20200311@sha256:e5dd9dbb37df5b731a6688fa49f4003359f6f126958c9c928f937bec69836320
+FROM ubuntu:bionic-20200403@sha256:b58746c8a89938b8c9f5b77de3b8cf1fe78210c696ab03a1442e235eea65d84f
 
 LABEL maintainer="Jeroen de Bruijn <vidavidorra@gmail.com>"
 ARG DEBIAN_FRONTEND=noninteractive
