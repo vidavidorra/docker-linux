@@ -22,7 +22,7 @@ set -x
 # Global variables
 ################################################################################
 # renovate: datasource=git-tags depName=https://github.com/Homebrew/brew versioning=semver
-HOMEBREW_VERSION='2.4.2'
+HOMEBREW_VERSION='2.4.3'
 
 ################################################################################
 # Functions
