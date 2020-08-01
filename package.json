@@ -55,6 +55,6 @@
     "prettier": "2.0.5",
     "semantic-release": "17.1.1",
     "standard-version": "8.0.1",
-    "typescript": "3.9.5"
+    "typescript": "3.9.7"
   }
 }
