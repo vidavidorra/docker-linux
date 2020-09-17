@@ -1,4 +1,4 @@
-FROM ubuntu:trusty-20191217@sha256:bd0223687054d0f8884fc9e872392c6385a3195d612400495962e270b572ed06
+FROM ubuntu:trusty-20191217@sha256:22eb792e7202aee4895dc0ad09126c310161e4ca40d3cec70c32505cffee7f06
 
 LABEL maintainer="Jeroen de Bruijn <vidavidorra@gmail.com>"
 ARG DEBIAN_FRONTEND=noninteractive
